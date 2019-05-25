@@ -1,0 +1,28 @@
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\bin\Debug\Events.Data.dll.config
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\bin\Debug\Events.Data.dll
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\bin\Debug\Events.Data.pdb
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.dll
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.xml
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\obj\Debug\Events.Data.csprojResolveAssemblyReference.cache
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\obj\Debug\Events.Data.dll
+C:\Users\Misho&Mecho\Desktop\10. Events-Lab\Events.Data\obj\Debug\Events.Data.pdb
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\bin\Debug\Events.Data.dll.config
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\bin\Debug\Events.Data.dll
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\bin\Debug\Events.Data.pdb
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\bin\Debug\EntityFramework.dll
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\bin\Debug\EntityFramework.xml
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\obj\Debug\Events.Data.csprojResolveAssemblyReference.cache
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\obj\Debug\Events.Data.dll
+D:\koxy\projects\Events_ASP.NET_MVC\Events.Data\obj\Debug\Events.Data.pdb
